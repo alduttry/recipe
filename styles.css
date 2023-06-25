@@ -165,6 +165,7 @@ img {
 /* Hamburger Styles */
 #main-nav {
     grid-template-columns: auto;
+    min-width: 414px;
     width: 90.1vw;
     background-color: #ffffff;
     position: fixed;
